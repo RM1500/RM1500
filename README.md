@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Racheal MBURU
 
-<!--
-**RM1500/RM1500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner learning cybersecurity and software engineering. I build things and document what I learn here.
 
-Here are some ideas to get you started:
+## Current focus
+- Learning networking fundamentals and Linux command line
+- Building a small security tool (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills (learning)
+- Python, Linux, Git, basic networking
+
+## Find me
+- raykarey209@gmail.com
